@@ -170,7 +170,6 @@ main {
 /* Button */
 .button {
     position: absolute;
-    z-index: 1;
     top: 1.7rem;
     right: 3rem;
 
@@ -358,7 +357,6 @@ main {
 /* Classes for JavaScript to use */
 .show {
     display: flex;
-    z-index: 1;
 }
 
 .change-button-background-color {
