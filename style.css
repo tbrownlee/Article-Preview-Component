@@ -58,7 +58,7 @@ main {
     position: relative;
     top: -1.5rem;
 
-    filter: brightness(1.06), saturate(1.2);
+    filter: brightness(1.06);
 
     border-top-right-radius: var(--border-radius);
     border-top-left-radius: var(--border-radius);
